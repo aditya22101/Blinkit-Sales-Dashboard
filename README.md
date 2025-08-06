@@ -5,6 +5,24 @@ This project involves the development of a **Sales Analytics Dashboard** for **B
 
 The dashboard provides **real-time insights** into sales performance, revenue trends, product demand, and operational bottlenecks, enabling stakeholders to make data-driven decisions.
 
+---
+
+## 📸 Screenshots
+
+![Dashboard Screenshot](./Images/dashboard.png)
+
+---
+
+## 🧑‍💼 About the Project
+
+This is a personal Power BI project built to demonstrate real-time analytics using a mock dataset resembling Blinkit’s operational model. It’s designed to reflect real business KPIs and visualization best practices.
+
+---
+
+## 📣 Want to See It in Action?
+
+- Contact me to request a walkthrough or share feedback!
+
 ## Features
 - **Interactive Visualizations**: Sales trends, revenue analysis, product category performance, and customer behavior insights.
 - **KPI Tracking**: Daily/Monthly sales, revenue growth, order volume, and top-performing products.
