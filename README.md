@@ -9,7 +9,8 @@ The dashboard provides **real-time insights** into sales performance, revenue tr
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot]([./Images/dashboard.png](https://github.com/aditya22101/Blinkit-Sales-Dashboard/blob/main/Screenshot%202025-08-06%20231603.png))
+![Dashboard Screenshot](https://github.com/aditya22101/Blinkit-Sales-Dashboard/raw/main/Screenshot%202025-08-06%20231603.png)
+
 
 ---
 
